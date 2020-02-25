@@ -319,7 +319,7 @@
   -webkit-backface-visibility: hidden;
   backface-visibility: hidden;
   max-width: 100%;
-  height: auto;
+  height: 50px;
 }
 
 h2.none {
@@ -461,7 +461,7 @@ h2.none {
   display: block;
   border-radius: 20px;
   text-align: center;
-  border: 1px solid #d6a279;
+  border: 1px solid #2d2e82;
   position: relative;
   -webkit-transition: all 0.3s ease;
   transition: all 0.3s ease;
@@ -472,7 +472,7 @@ h2.none {
 
 .input-submit a {
   font: 700 14px/38px "Montserrat";
-  color: #d6a279;
+  color: #2d2e82;
   text-transform: uppercase;
   position: relative;
   z-index: 2;
@@ -485,7 +485,7 @@ h2.none {
 }
 
 .input-submit:hover {
-  background: #d6a279;
+  background: #2d2e82;
 }
 
 .input-submit:hover a {
@@ -600,7 +600,7 @@ h2.none {
 }
 
 .phone span.phone-number {
-  color: #d6a279;
+  color: #2d2e82;
   font-size: 18px;
   font-family: "Montserrat";
 }
@@ -812,7 +812,7 @@ h2.none {
 }
 
 .wishlist-header .wishlist-control:hover a.icon-wishlist {
-  color: #d6a279;
+  color: #2d2e82;
   background: url("images/icons/home4/wishlist_hover.svg") no-repeat;
   background-position: center center;
 }
@@ -916,7 +916,7 @@ h2.none {
 
 .mini-cart .shop-item .total .amount {
   font: 400 18px "Montserrat";
-  color: #d6a279;
+  color: #2d2e82;
   float: right;
 }
 
@@ -946,13 +946,13 @@ h2.none {
 }
 
 .mini-cart .shop-item .buttons .button.cart-button:hover {
-  background: #d6a279;
+  background: #2d2e82;
   border: none;
   color: #fff;
 }
 
 .mini-cart .shop-item .buttons .button.checkout {
-  background: #d6a279;
+  background: #2d2e82;
   color: #fff;
   float: right;
   -webkit-transition: all 0.4s ease;
@@ -974,7 +974,7 @@ h2.none {
 }
 
 .mini-cart:hover .mini-cart-control .minicart-items a {
-  color: #d6a279;
+  color: #2d2e82;
 }
 
 .mini-cart:hover .shop-item {
@@ -1083,11 +1083,11 @@ h2.none {
 }
 
 .search-container .search-box .main-search input::-moz-placeholder {
-  color: #d6a279;
+  color: #2d2e82;
 }
 
 .search-container .search-box .main-search input::-webkit-input-placeholder {
-  color: #d6a279;
+  color: #2d2e82;
 }
 
 .search-container .search-box .main-search button.search-btn {
@@ -1140,7 +1140,7 @@ h2.none {
 }
 
 .engo-mainmenu ul.lever-01 li.lever-01 > a:hover {
-  color: #d6a279;
+  color: #2d2e82;
 }
 
 @media only screen and (max-width: 1199px) and (min-width: 992px) {
@@ -1153,7 +1153,7 @@ h2.none {
 }
 
 .engo-mainmenu ul.lever-01 li.lever-01.active > a {
-  color: #d6a279;
+  color: #2d2e82;
 }
 
 .engo-mainmenu ul.lever-01 li.lever-01:last-child a {
@@ -1219,7 +1219,7 @@ h2.none {
 
 .dropdown-menu .menu-menu .title {
   font: 400 18px "Montserrat";
-  color: #d6a279;
+  color: #2d2e82;
   text-transform: uppercase;
 }
 
@@ -1254,7 +1254,7 @@ h2.none {
 
 .dropdown-menu .menu-menu ul li a:hover {
   padding-left: 20px;
-  color: #d6a279;
+  color: #2d2e82;
 }
 
 .sub-menu-single {
@@ -1295,7 +1295,7 @@ h2.none {
 
 .sub-menu-single ul li a:hover {
   padding-left: 20px;
-  color: #d6a279;
+  color: #2d2e82;
 }
 
 .mega-dropdown-menu-v1 {
@@ -1733,11 +1733,11 @@ h2.none {
 }
 
 .toolbar.products-bottom-toolbar ul li a:hover {
-  color: #d6a279;
+  color: #2d2e82;
 }
 
 .toolbar.products-bottom-toolbar ul li.active a {
-  color: #d6a279;
+  color: #2d2e82;
   text-decoration: underline;
 }
 
@@ -1787,12 +1787,12 @@ h2.none {
 
 .widget-title {
   font: 400 18px "Montserrat";
-  color: #d6a279;
+  color: #2d2e82;
   text-transform: uppercase;
 }
 
 .widget-title:after {
-  background: #d6a279;
+  background: #2d2e82;
   height: 1px;
   width: 50px;
   content: "";
@@ -1818,7 +1818,7 @@ h2.none {
 }
 
 .widget ul li > a:hover {
-  color: #d6a279;
+  color: #2d2e82;
 }
 
 .widget ul li:first-child a {
@@ -1923,7 +1923,7 @@ h2.none {
 .widget .f-price .btn {
   float: left;
   margin: 25px 0px 0px;
-  background: #d6a279;
+  background: #2d2e82;
   font: 400 13px "Montserrat";
   color: #FFF;
   text-transform: uppercase;
@@ -2022,7 +2022,7 @@ ul.nav-tabs.zoom-text li a {
 }
 
 .tab-v1 .viewall:hover {
-  background: #d6a279;
+  background: #2d2e82;
 }
 
 /* 3.6 End tabs */
@@ -2075,7 +2075,7 @@ ul.nav-tabs.zoom-text li a {
 
 .modal-body .popup-content h3 {
   font: 400 48px/48px "Playfair Display";
-  color: #d6a279;
+  color: #2d2e82;
   margin-top: 40px;
   margin-bottom: 30px;
   text-transform: uppercase;
@@ -2130,7 +2130,7 @@ ul.nav-tabs.zoom-text li a {
 }
 
 .modal-body .popup-content form .btn-subscribe:hover {
-  background: #d6a279;
+  background: #2d2e82;
 }
 
 .modal-footer {
@@ -2265,7 +2265,7 @@ ul.nav-tabs.zoom-text li a {
 }
 
 .popup-v2 .modal-content .modal-header .close-modal a:hover {
-  color: #d6a279;
+  color: #2d2e82;
 }
 
 .popup-v2 .modal-content .modal-body .popup-content h3 {
@@ -2320,10 +2320,10 @@ ul.nav-tabs.zoom-text li a {
     color: #212121;
   }
   .totoplink a.clicked {
-    border-color: #d6a279;
+    border-color: #2d2e82;
   }
   .totoplink a.clicked i {
-    color: #d6a279;
+    color: #2d2e82;
   }
   .totoplink a:hover {
     opacity: .95;
@@ -2526,7 +2526,7 @@ footer.engo-footer-v2 + div.ztotoplink .totoplink a.visible.btop-fix-footer {
 }
 
 .header-v3 .main-header .mini-cart-control:hover .minicart-items a {
-  color: #d6a279;
+  color: #2d2e82;
 }
 
 .header-v3 .main-header .wishlist-header {
@@ -2793,7 +2793,7 @@ footer.engo-footer-v2 + div.ztotoplink .totoplink a.visible.btop-fix-footer {
 }
 
 .header-v2 .main-header .rightheader .mini-cart-control:hover .minicart-items a {
-  color: #d6a279;
+  color: #2d2e82;
 }
 
 .header-v2 .main-nav {
@@ -2868,11 +2868,11 @@ footer.engo-footer-v2 + div.ztotoplink .totoplink a.visible.btop-fix-footer {
 }
 
 .header-v2 .main-nav .nav-inner .primary-menu ul li a:hover {
-  color: #d6a279;
+  color: #2d2e82;
 }
 
 .header-v2 .main-nav .nav-inner .primary-menu ul li a.active {
-  color: #d6a279;
+  color: #2d2e82;
 }
 
 .header-v2 .main-nav .nav-inner .main-search {
@@ -2903,7 +2903,7 @@ footer.engo-footer-v2 + div.ztotoplink .totoplink a.visible.btop-fix-footer {
   text-align: center;
   color: #fff;
   font: 700 13px/33px "Montserrat";
-  background: #d6a279;
+  background: #2d2e82;
   position: absolute;
   right: 2px;
   top: 2px;
@@ -2919,7 +2919,7 @@ footer.engo-footer-v2 + div.ztotoplink .totoplink a.visible.btop-fix-footer {
 
 .header-v2 .main-nav .nav-inner .main-search .btn-search:hover {
   background: #fff;
-  color: #d6a279;
+  color: #2d2e82;
 }
 
 .header-v2 .main-nav .nav-social {
@@ -3209,11 +3209,11 @@ footer.engo-footer-v2 + div.ztotoplink .totoplink a.visible.btop-fix-footer {
 }
 
 .header-v1 .main-menu .lever-01 .sub-menu .lever-02 > a:hover {
-  color: #d6a279;
+  color: #2d2e82;
 }
 
 .header-v1 .main-menu .lever-01 .sub-menu .lever-02 > a.active {
-  color: #d6a279;
+  color: #2d2e82;
 }
 
 .header-v1 .main-menu .lever-01:hover .sub-menu {
@@ -3334,7 +3334,7 @@ footer.engo-footer-v2 + div.ztotoplink .totoplink a.visible.btop-fix-footer {
 }
 
 .engo-footer .footer-main .menu-footer li a:hover {
-  color: #d6a279;
+  color: #2d2e82;
 }
 
 .engo-footer .footer-bottom {
@@ -3355,7 +3355,7 @@ footer.engo-footer-v2 + div.ztotoplink .totoplink a.visible.btop-fix-footer {
 }
 
 .engo-footer .footer-bottom ul.social li a:hover {
-  color: #d6a279;
+  color: #2d2e82;
 }
 
 /*  5.1 End FOOTER V1  */
@@ -3507,7 +3507,7 @@ footer.engo-footer-v2 + div.ztotoplink .totoplink a.visible.btop-fix-footer {
 
 .blog-v1 .title-blog:after {
   content: '';
-  background: #d6a279;
+  background: #2d2e82;
   width: 100px;
   height: 2px;
   position: absolute;
@@ -3593,7 +3593,7 @@ footer.engo-footer-v2 + div.ztotoplink .totoplink a.visible.btop-fix-footer {
 .blog-v1 .content-blog .blog-content-v1 .bdes .read-more a {
   display: block;
   font: 400 13px/24px "Montserrat";
-  color: #d6a279;
+  color: #2d2e82;
   text-transform: uppercase;
 }
 
@@ -3607,7 +3607,7 @@ footer.engo-footer-v2 + div.ztotoplink .totoplink a.visible.btop-fix-footer {
 }
 
 .blog-v1 .content-blog .view-blog a {
-  color: #d6a279;
+  color: #2d2e82;
   -webkit-transition: all 0.3s ease;
   transition: all 0.3s ease;
   -moz-transition: all 0.3s ease;
@@ -3637,7 +3637,7 @@ footer.engo-footer-v2 + div.ztotoplink .totoplink a.visible.btop-fix-footer {
 }
 
 .blog-v1 .content-blog .view-blog:hover:before {
-  background: #d6a279;
+  background: #2d2e82;
 }
 
 .blog-subscribe {
@@ -3702,7 +3702,7 @@ footer.engo-footer-v2 + div.ztotoplink .totoplink a.visible.btop-fix-footer {
 }
 
 .blog-subscribe .subscribe .content-subscribe form .btn-subscribe:hover {
-  background: #d6a279;
+  background: #2d2e82;
 }
 
 .blog-subscribe .subscribe .social-sub {
@@ -3771,7 +3771,7 @@ article.post .title-post .name a {
 }
 
 article.post .title-post .name:hover a {
-  color: #d6a279;
+  color: #2d2e82;
 }
 
 article.post .post-meta {
@@ -3827,7 +3827,7 @@ article.post .entry-footer .tags-links a {
 }
 
 article.post .entry-footer .tags-links a:hover {
-  color: #d6a279;
+  color: #2d2e82;
 }
 
 article.post .entry-footer .single-share {
@@ -4006,7 +4006,7 @@ article.post .entry-footer .author-info .author-bio p {
   border-radius: 20px;
   text-align: center;
   position: relative;
-  background: #d6a279;
+  background: #2d2e82;
   -webkit-transition: all 0.3s ease;
   transition: all 0.3s ease;
   -moz-transition: all 0.3s ease;
@@ -4066,7 +4066,7 @@ article.post .entry-footer .author-info .author-bio p {
 }
 
 .blog-slider .control-arrow .arrow:hover {
-  background: #d6a279;
+  background: #2d2e82;
   color: #fff;
 }
 
@@ -4168,7 +4168,7 @@ article.post .entry-footer .author-info .author-bio p {
 }
 
 .tags-cloud a:hover {
-  color: #d6a279;
+  color: #2d2e82;
 }
 
 .widget.gallery ul {
@@ -4209,7 +4209,7 @@ article.post .entry-footer .author-info .author-bio p {
 }
 
 .widget.recent-post li .title:hover {
-  color: #d6a279;
+  color: #2d2e82;
 }
 
 .widget.recent-post li .date {
@@ -4311,7 +4311,7 @@ article.post .entry-footer .author-info .author-bio p {
 
 .site-blog-category-v1 .load-more a {
   font: 700 14px/14px "Montserrat";
-  color: #d6a279;
+  color: #2d2e82;
   text-transform: uppercase;
   -webkit-transition: all 0.3s ease;
   transition: all 0.3s ease;
@@ -4328,7 +4328,7 @@ article.post .entry-footer .author-info .author-bio p {
   top: 30px;
   left: 50%;
   margin-left: -1px;
-  background: #d6a279;
+  background: #2d2e82;
   display: block;
 }
 
@@ -4362,7 +4362,7 @@ article.post .entry-footer .author-info .author-bio p {
 }
 
 .post-category .date:hover {
-  background: #d6a279;
+  background: #2d2e82;
 }
 
 .post-category .title-post {
@@ -4388,7 +4388,7 @@ article.post .entry-footer .author-info .author-bio p {
 }
 
 .post-category .title-post .title a:hover {
-  color: #d6a279;
+  color: #2d2e82;
 }
 
 .post-category .des {
@@ -4455,7 +4455,7 @@ article.post .entry-footer .author-info .author-bio p {
 }
 
 .post-category .readmore .read-more:hover {
-  color: #d6a279;
+  color: #2d2e82;
 }
 
 .post-category .readmore .read-more:hover i {
@@ -4791,7 +4791,7 @@ article.post .entry-footer .author-info .author-bio p {
 }
 
 .blog-v2 .content-blog .blog-content-v2 .name-blog:hover a {
-  color: #d6a279;
+  color: #2d2e82;
 }
 
 .blog-v2 .content-blog .blog-content-v2 .entry-meta {
@@ -4921,7 +4921,7 @@ article.post .entry-footer .author-info .author-bio p {
 }
 
 .blog-content-v4 .name-blog:hover a {
-  color: #d6a279;
+  color: #2d2e82;
 }
 
 .blog-content-v4 .des {
@@ -5080,7 +5080,7 @@ article.post .entry-footer .author-info .author-bio p {
 }
 
 .product label.new {
-  background: #d6a279;
+  background: #2d2e82;
 }
 
 .product label.hot {
@@ -5256,7 +5256,7 @@ div.large .product-back {
 }
 
 .product .meta .name:hover a {
-  color: #d6a279;
+  color: #2d2e82;
 }
 
 .product .meta .rating {
@@ -5324,7 +5324,7 @@ div.large .product-back {
 
 .product .meta .price ins {
   font: 400 20px "Montserrat";
-  color: #d6a279;
+  color: #2d2e82;
   text-decoration: none;
   margin-left: 10px;
 }
@@ -5466,7 +5466,7 @@ div.large .product-back {
   left: 0;
   width: 100%;
   height: 100%;
-  background: #d6a279;
+  background: #2d2e82;
   opacity: 0;
 }
 
@@ -5868,7 +5868,7 @@ div.shadow {
   margin-left: 0;
   margin-right: 10px;
   font-size: 20px;
-  color: #d6a279;
+  color: #2d2e82;
   text-decoration: none;
 }
 
@@ -5910,7 +5910,7 @@ div.shadow {
   text-align: center;
   font: 400 15px "Montserrat";
   line-height: 40px;
-  background: #d6a279;
+  background: #2d2e82;
   border-radius: 22px;
   color: #fff;
   position: relative;
@@ -5947,7 +5947,7 @@ div.shadow {
   text-align: center;
   font: 400 15px "Montserrat";
   line-height: 40px;
-  background: #d6a279;
+  background: #2d2e82;
   border-radius: 22px;
   color: #fff;
   position: relative;
@@ -6038,7 +6038,7 @@ div.shadow {
 }
 
 .info-large .button-action .wishlist .btn-wishlist:hover .add-to-wishlist {
-  color: #d6a279;
+  color: #2d2e82;
 }
 
 .info-large .button-action .wishlist .btn-wishlist:hover .add-to-wishlist i {
@@ -6385,7 +6385,7 @@ div.shadow {
 
 .site-main.site-about .engo-breadscrumb .breadcrumb .title-breadscrumb {
   font: 400 72px/72px "Playfair Display";
-  color: #d6a279;
+  color: #2d2e82;
   margin-top: 0;
   margin-bottom: 10px;
 }
@@ -6539,7 +6539,7 @@ div.shadow {
 }
 
 .product-block .caption .meta .name:hover a {
-  color: #d6a279;
+  color: #2d2e82;
 }
 
 .product-block .caption .meta .rating {
@@ -6605,7 +6605,7 @@ div.shadow {
 
 .product-block .caption .meta .price ins {
   font: 400 20px "Montserrat";
-  color: #d6a279;
+  color: #2d2e82;
   text-decoration: none;
   margin-left: 10px;
 }
@@ -6623,7 +6623,7 @@ div.shadow {
 }
 
 .product-block label.new {
-  background: #d6a279;
+  background: #2d2e82;
 }
 
 .product-block label.hot {
@@ -6809,7 +6809,7 @@ div.shadow {
 }
 
 .list-topsales .engo-w-products-list .widget-product .caption .meta .wishlist:hover .btn-wishlist a, .list-new .engo-w-products-list .widget-product .caption .meta .wishlist:hover .btn-wishlist a, .list-toprate .engo-w-products-list .widget-product .caption .meta .wishlist:hover .btn-wishlist a {
-  color: #d6a279;
+  color: #2d2e82;
 }
 
 .list-topsales .engo-w-products-list .widget-product .caption .meta .wishlist:hover .btn-wishlist a i, .list-new .engo-w-products-list .widget-product .caption .meta .wishlist:hover .btn-wishlist a i, .list-toprate .engo-w-products-list .widget-product .caption .meta .wishlist:hover .btn-wishlist a i {
@@ -7021,7 +7021,7 @@ div.shadow {
 }
 
 .grid-v2 .viewall:hover {
-  background: #d6a279;
+  background: #2d2e82;
 }
 
 /* End 7.3 Grid-v2 */
@@ -7163,7 +7163,7 @@ div.shadow {
 
 .product-details .summary .price ins {
   font: 400 20px "Montserrat";
-  color: #d6a279;
+  color: #2d2e82;
   text-decoration: none;
   margin-right: 15px;
 }
@@ -7399,8 +7399,8 @@ div.shadow {
 }
 
 .product-details .summary .buttons .button:hover {
-  border-color: #d6a279;
-  background: #d6a279;
+  border-color: #2d2e82;
+  background: #2d2e82;
 }
 
 .product-details .summary .buttons .button:hover span {
@@ -7494,7 +7494,7 @@ div.shadow {
   font: 700 18px "Raleway";
   margin-top: 0;
   margin-bottom: 20px;
-  color: #d6a279;
+  color: #2d2e82;
 }
 
 .product-details .tabs-container .tab-des p {
@@ -7635,11 +7635,11 @@ div.shadow {
 }
 
 .product-details .tabs-container .tab-rev .form-review .submit .rating-rev input + label:hover, .product-details .tabs-container .tab-rev .form-review .submit .rating-rev input + label:hover ~ label {
-  color: #d6a279;
+  color: #2d2e82;
 }
 
 .product-details .tabs-container .tab-rev .form-review .submit .rating-rev input:checked ~ label {
-  color: #d6a279;
+  color: #2d2e82;
 }
 
 .product-details .tabs-container .tab-rev .form-review .submit .subreview {
@@ -7650,7 +7650,7 @@ div.shadow {
   display: block;
   float: right;
   border-radius: 20px;
-  background: #d6a279;
+  background: #2d2e82;
   -webkit-transition: all 0.3s ease;
   transition: all 0.3s ease;
   -moz-transition: all 0.3s ease;
@@ -7702,7 +7702,7 @@ div.shadow {
   margin-left: 35px;
   float: right;
   border-radius: 20px;
-  background: #d6a279;
+  background: #2d2e82;
   position: relative;
   margin-bottom: 7px;
   -webkit-transition: all 0.3s ease;
@@ -7726,7 +7726,7 @@ div.shadow {
 
 .product-details .tabs-container .add-tags form p {
   font: 400 13px "Raleway";
-  color: #d6a279;
+  color: #2d2e82;
   opacity: 0.8;
   clear: both;
 }
@@ -7799,7 +7799,7 @@ div.shadow {
   content: "";
   width: 80px;
   height: 2px;
-  background: #d6a279;
+  background: #2d2e82;
   vertical-align: top;
   position: absolute;
   bottom: 0;
@@ -7819,8 +7819,8 @@ div.shadow {
 }
 
 .shopping-cart .shop-step .step.checked .count {
-  border: 1px solid #d6a279;
-  background: #d6a279;
+  border: 1px solid #2d2e82;
+  background: #2d2e82;
   color: #fff;
 }
 
@@ -7867,7 +7867,7 @@ div.shadow {
 }
 
 .cart-form .table tbody tr .product-remove a:hover {
-  color: #d6a279;
+  color: #2d2e82;
 }
 
 .cart-form .table tbody tr .product-name img {
@@ -7882,7 +7882,7 @@ div.shadow {
 }
 
 .cart-form .table tbody tr .product-name span:hover {
-  color: #d6a279;
+  color: #2d2e82;
 }
 
 .cart-form .table tbody tr .product-price p {
@@ -7908,7 +7908,7 @@ div.shadow {
 .cart-form .table tbody tr .product-subtotal p {
   margin-bottom: 0;
   font: 400 20px "Montserrat";
-  color: #d6a279;
+  color: #2d2e82;
 }
 
 .cart-collaterals {
@@ -7971,7 +7971,7 @@ div.shadow {
   display: block;
   border-radius: 20px;
   text-align: center;
-  border: 1px solid #d6a279;
+  border: 1px solid #2d2e82;
   position: relative;
   -webkit-transition: all 0.3s ease;
   transition: all 0.3s ease;
@@ -7982,14 +7982,14 @@ div.shadow {
 
 .cart-collaterals .cal-shipping .input-submit a {
   font: 700 14px/38px "Montserrat";
-  color: #d6a279;
+  color: #2d2e82;
   text-transform: uppercase;
   position: relative;
   z-index: 2;
 }
 
 .cart-collaterals .cal-shipping .input-submit:hover {
-  background: #d6a279;
+  background: #2d2e82;
 }
 
 .cart-collaterals .cal-shipping .input-submit:hover a {
@@ -8029,7 +8029,7 @@ div.shadow {
 
 .cart-collaterals .cal-shipping table tr td .amount {
   font: 400 20px "Montserrat";
-  color: #d6a279;
+  color: #2d2e82;
 }
 
 .cart-collaterals .cal-shipping table tr.order-total {
@@ -8236,7 +8236,7 @@ div.shadow {
   display: block;
   width: 80px;
   height: 2px;
-  background: #d6a279;
+  background: #2d2e82;
   margin: 30px auto;
   content: "";
 }
@@ -8276,7 +8276,7 @@ div.shadow {
 .your-order table .product-order td li .product-qty {
   text-align: left;
   font: 400 20px "Montserrat";
-  color: #d6a279;
+  color: #2d2e82;
 }
 
 .your-order table .product-order td li .product-qty a {
@@ -8303,7 +8303,7 @@ div.shadow {
 
 .your-order table .cart-subtotal .amount {
   font: 400 20px "Montserrat";
-  color: #d6a279;
+  color: #2d2e82;
 }
 
 .your-order table .shipping th {
@@ -8380,7 +8380,7 @@ div.shadow {
 
 .payment_methods .paypal-method a {
   font: 400 14px "Raleway";
-  color: #d6a279;
+  color: #2d2e82;
 }
 
 .payment_methods .paypal-method p {
@@ -8396,7 +8396,7 @@ div.shadow {
 .return a {
   font-weight: 700;
   text-decoration: underline;
-  color: #d6a279;
+  color: #2d2e82;
 }
 
 .order-complete {
@@ -8416,8 +8416,8 @@ div.shadow {
   display: inline-block;
   height: 40px;
   padding: 0 25px;
-  border: 1px solid #d6a279;
-  color: #d6a279;
+  border: 1px solid #2d2e82;
+  color: #2d2e82;
   font: 700 14px/40px "Montserrat";
   text-transform: uppercase;
   position: relative;
@@ -8430,14 +8430,14 @@ div.shadow {
 }
 
 .order-complete .home span, .order-complete .shopping span {
-  color: #d6a279;
+  color: #2d2e82;
   font: 700 14px/40px "Montserrat";
   position: relative;
   z-index: 9;
 }
 
 .order-complete .home:hover, .order-complete .shopping:hover {
-  background: #d6a279;
+  background: #2d2e82;
 }
 
 .order-complete .home:hover span, .order-complete .shopping:hover span {
@@ -8471,14 +8471,14 @@ div.shadow {
 /*  7.8 Wishlist */
 .wishlist-cart table .product-stock-status {
   font: 400 18px "Montserrat";
-  color: #d6a279;
+  color: #2d2e82;
 }
 
 .wishlist-cart table .product-add-to-cart a {
   display: inline-block;
   height: 40px;
   border-radius: 20px;
-  background: #d6a279;
+  background: #2d2e82;
   color: #fff;
   padding: 0 20px;
   font: 400 15px/40px "Montserrat";
@@ -8525,7 +8525,7 @@ div.shadow {
   margin-bottom: 0;
   font: 700 14px "Montserrat";
   color: #fff;
-  background: #d6a279;
+  background: #2d2e82;
   padding: 0 50px;
   text-transform: uppercase;
   border-radius: 20px;
@@ -8576,7 +8576,7 @@ div.shadow {
 
 .content-contact .item-contact span {
   font: 400 14px "Montserrat";
-  color: #d6a279;
+  color: #2d2e82;
 }
 
 .title-contact {
@@ -8591,7 +8591,7 @@ div.shadow {
 
 .title-contact:after {
   content: "";
-  background: #d6a279;
+  background: #2d2e82;
   display: block;
   width: 50px;
   height: 2px;
@@ -8627,7 +8627,7 @@ div.shadow {
 .contact-form .button {
   width: 100%;
   text-align: center;
-  background: #d6a279;
+  background: #2d2e82;
   border-radius: 20px;
   -webkit-transition: all 0.3s ease;
   transition: all 0.3s ease;
@@ -8672,7 +8672,7 @@ div.shadow {
   width: 50px;
   height: 1px;
   display: block;
-  background: #d6a279;
+  background: #2d2e82;
 }
 
 .signin p, .register p {
@@ -8785,7 +8785,7 @@ div.shadow {
   display: inline-block;
   float: right;
   font: 400 14px/43px "Raleway";
-  color: #d6a279;
+  color: #2d2e82;
   letter-spacing: 1px;
 }
 
@@ -8834,7 +8834,7 @@ div.shadow {
   width: 150px;
   height: 40px;
   border-radius: 20px;
-  background: #d6a279;
+  background: #2d2e82;
   font: 700 15px/40px "Montserrat";
   color: #fff;
   display: inline-block;
@@ -8849,7 +8849,7 @@ div.shadow {
 
 .page-404 .des-404 a:hover {
   background: #212121;
-  color: #d6a279;
+  color: #2d2e82;
 }
 
 .page-404 .search-404 {
@@ -8895,7 +8895,7 @@ div.shadow {
 }
 
 .page-404 .search-404 .btn-search:hover {
-  background: #d6a279;
+  background: #2d2e82;
   color: #fff;
 }
 
@@ -8982,7 +8982,7 @@ div.shadow {
 
 .toggle-content .toogle-title {
   font: 700 24px/48px "Montserrat";
-  color: #d6a279;
+  color: #2d2e82;
   margin-top: 0;
 }
 
@@ -9009,7 +9009,7 @@ div.shadow {
   width: 100%;
   display: block;
   position: relative;
-  border: 8px solid #d6a279;
+  border: 8px solid #2d2e82;
 }
 
 .site-about .main-about .image-about img {
@@ -9102,7 +9102,7 @@ div.shadow {
 }
 
 .site-about .intro .item-intro .icon span {
-  color: #d6a279;
+  color: #2d2e82;
   font-size: 50px;
 }
 
@@ -9122,7 +9122,7 @@ div.shadow {
 }
 
 .site-about .intro .item-intro .title:hover a {
-  color: #d6a279;
+  color: #2d2e82;
 }
 
 .site-about .intro .item-intro .des {
@@ -9150,7 +9150,7 @@ div.shadow {
 
 .site-about .title-member .title:before {
   content: '';
-  background: #d6a279;
+  background: #2d2e82;
   width: 100px;
   height: 2px;
   position: absolute;
@@ -9219,7 +9219,7 @@ div.shadow {
 
 .site-about .team-members .merber .title-merber .job {
   font: 400 14px/14px "Montserrat";
-  color: #d6a279;
+  color: #2d2e82;
 }
 
 @media only screen and (min-width: 768px) {
@@ -9345,7 +9345,7 @@ div.shadow {
   position: relative;
   font: 400 16px/40px "Montserrat";
   border-radius: 20px;
-  background: #d6a279;
+  background: #2d2e82;
   color: #fff;
   text-align: center;
   text-transform: uppercase;
@@ -9388,7 +9388,7 @@ div.shadow {
 
 .online-only .deals-info .countdown .timer-view .count .number {
   font: 400 32px "Montserrat";
-  color: #d6a279;
+  color: #2d2e82;
   display: block;
   width: 100%;
   margin-bottom: 0;
@@ -9607,7 +9607,7 @@ div.shadow {
 }
 
 #iw-container .content-map .map-contact span {
-  color: #d6a279;
+  color: #2d2e82;
 }
 
 #iw-container .content-map .map-contact .phone-map {
@@ -9848,7 +9848,7 @@ div.shadow {
   font-size: 50px;
   margin-top: 30px;
   margin-bottom: 30px;
-  color: #d6a279;
+  color: #2d2e82;
   -webkit-transition: all 0.2s ease;
   transition: all 0.2s ease;
   -moz-transition: all 0.2s ease;
@@ -9873,7 +9873,7 @@ div.shadow {
 
 .promotion .policy-item .des {
   font: 400 14px "Playfair Display";
-  color: #d6a279;
+  color: #2d2e82;
 }
 
 .promotion .policy-item:hover i {
@@ -10018,7 +10018,7 @@ div.shadow {
 }
 
 .deals-online-slider .online-only .deals-info .shopnow .shop-now:hover {
-  background: #d6a279;
+  background: #2d2e82;
 }
 
 @media only screen and (max-width: 1600px) {
@@ -10092,7 +10092,7 @@ div.shadow {
 }
 
 .promotion.promotion-v2 .promotion-item .policy-item .title:hover {
-  color: #d6a279;
+  color: #2d2e82;
 }
 
 .promotion.promotion-v2 .promotion-item .policy-item .des {
@@ -10171,7 +10171,7 @@ div.shadow {
 }
 
 .signupsp form .btn-subscribe:hover {
-  background: #d6a279;
+  background: #2d2e82;
 }
 
 .collections-banner .item-collection {
@@ -10294,7 +10294,7 @@ div.shadow {
 }
 
 .blog-v3 .blog-content-v3 h3.name-blog:hover a {
-  color: #d6a279;
+  color: #2d2e82;
 }
 
 .blog-v3 .blog-content-v3 .des {
@@ -10320,7 +10320,7 @@ div.shadow {
   bottom: 0;
   left: 0;
   font: 400 13px/13px "Montserrat";
-  color: #d6a279;
+  color: #2d2e82;
   text-transform: uppercase;
 }
 
@@ -10440,7 +10440,7 @@ div.shadow {
 }
 
 .engo-banner-container .engo-banner .shopnow:hover {
-  background: #d6a279;
+  background: #2d2e82;
   color: #fff;
 }
 
@@ -11480,7 +11480,7 @@ div.shadow {
 }
 
 .testimonial-content .title-testimonial .name:hover {
-  color: #d6a279;
+  color: #2d2e82;
 }
 
 .testimonial-content .title-testimonial:before {
@@ -11505,7 +11505,7 @@ div.shadow {
 
 .testimonial-content .job {
   font: 400 14px/24px "Raleway";
-  color: #d6a279;
+  color: #2d2e82;
   margin-top: 10px;
 }
 
@@ -11522,7 +11522,7 @@ div.shadow {
 }
 
 .testimonial-v2 .testimonial-content .title-testimonial .name:hover {
-  color: #d6a279;
+  color: #2d2e82;
 }
 
 .testimonial-v2 .testimonial-content .title-testimonial:before {
@@ -12972,7 +12972,7 @@ div.shadow {
   .tab-v1 ul.nav-tabs li.active a {
     line-height: 50px;
     font-size: 25px;
-    background: #d6a279;
+    background: #2d2e82;
     color: #fff;
   }
   #brand .brand-content .brand {
