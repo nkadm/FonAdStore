@@ -3436,7 +3436,7 @@ footer.engo-footer-v2 + div.ztotoplink .totoplink a.visible.btop-fix-footer {
 }
 
 .home-4 #wrapper {
-  padding-bottom: 400px;
+  padding-bottom: 1px;
 }
 
 .home-4 #wrapper .header-v4 {
@@ -3457,7 +3457,7 @@ footer.engo-footer-v2 + div.ztotoplink .totoplink a.visible.btop-fix-footer {
 }
 
 .home-4 #wrapper section.deals-online {
-  background: #fff;
+  background: url(images/deals/fonad-app-bg.jpg) ;
 }
 
 .home-4 #wrapper section.slider-04 {
@@ -9271,7 +9271,7 @@ div.shadow {
 /*  9.1 Home - version 4 */
 .online-only {
   height: 350px;
-  background: url("images/deals/bg-online-only_05.jpg") repeat-x;
+  /* background: url("images/deals/fonad-app-bg.jpg") repeat-x; */
   margin: 150px 0;
   text-align: center;
 }
