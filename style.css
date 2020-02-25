@@ -3397,6 +3397,7 @@ footer.engo-footer-v2 + div.ztotoplink .totoplink a.visible.btop-fix-footer {
 
 .engo-footer-v3 .copyright img {
   margin-bottom: 10px;
+  height: 50px;
 }
 
 .engo-footer-v3 .copyright p {
