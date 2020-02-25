@@ -6326,7 +6326,7 @@ div.shadow {
 /* End 7.1 Product */
 /*  7.2 Product-list */
 .site-main.shop-grid-full .engo-breadscrumb {
-  background: url("images/Breadscrumb/grid-fullwidth.jpg") no-repeat;
+  background: url("images/Breadscrumb/breadcrumb-banner.jpg") no-repeat;
   background-position: center center;
 }
 
@@ -6344,7 +6344,7 @@ div.shadow {
 }
 
 .site-main.shopping-cart .engo-breadscrumb, .site-main.track-order-page .engo-breadscrumb, .site-main.wishlist-page .engo-breadscrumb {
-  background: url("images/Breadscrumb/shoppingcart.jpg") no-repeat;
+  background: url("images/Breadscrumb/breadcrumb-banner.jpg") no-repeat;
   background-position: center center;
 }
 
@@ -6353,7 +6353,7 @@ div.shadow {
 }
 
 .site-main.site-login .engo-breadscrumb, .site-main.site-faqs .engo-breadscrumb {
-  background: url("images/Breadscrumb/Login.jpg") no-repeat;
+  background: url("images/Breadscrumb/breadcrumb-banner.jpg") no-repeat;
   background-position: center center;
 }
 
@@ -6362,18 +6362,18 @@ div.shadow {
 }
 
 .site-main.site-blog-single-v2 .engo-breadscrumb {
-  background: url("images/Breadscrumb/blog-single-standard.jpg") no-repeat;
+  background: url("images/Breadscrumb/breadcrumb-banner.jpg") no-repeat;
   background-position: center center;
 }
 
 .site-main.site-blog-category-v2 .engo-breadscrumb {
-  background: url("images/Breadscrumb/blog-v2.jpg") no-repeat;
+  background: url("images/Breadscrumb/breadcrumb-banner.jpg") no-repeat;
   background-position: center center;
 }
 
 .site-main.site-about .engo-breadscrumb {
   height: 699px;
-  background: url("images/Breadscrumb/aboutus.jpg") no-repeat;
+  background: url("images/Breadscrumb/breadcrumb-banner.jpg") no-repeat;
   background-size: cover;
   background-position: center;
   background-attachment: fixed;
