@@ -9629,7 +9629,7 @@ div.shadow {
 /* 9.2 Home - version 3 */
 .swiper-container {
   width: 100%;
-  height: auto;
+  height: 647px;
   display: block;
 }
 
@@ -9640,18 +9640,18 @@ div.shadow {
 
 .swiper-slide .bg-slider-home3-01 {
   background-image: url("images/slider/slider-home-03-01.jpg");
-  -webkit-background-size: cover;
-  -moz-background-size: cover;
-  -o-background-size: cover;
-  background-size: cover;
+  -webkit-background-size: contain;
+  -moz-background-size: contain;
+  -o-background-size: contain;
+  background-size: contain;
 }
 
 .swiper-slide .bg-slider-home3-02 {
   background-image: url("images/slider/slider-home-03.jpg");
-  -webkit-background-size: cover;
-  -moz-background-size: cover;
-  -o-background-size: cover;
-  background-size: cover;
+  -webkit-background-size: contain;
+  -moz-background-size: contain;
+  -o-background-size: contain;
+  background-size: contain;
 }
 
 .slider-home-v3 {
