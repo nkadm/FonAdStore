@@ -3433,7 +3433,7 @@ footer.engo-footer-v2 + div.ztotoplink .totoplink a.visible.btop-fix-footer {
 .home-4 #wrapper section.filter-product-block {
   margin-bottom: 0;
   padding-bottom: 75px;
-  background: #fff;
+  /* background: #fff; */
 }
 
 .home-4 #wrapper section.deals-online {
@@ -6502,7 +6502,7 @@ div.shadow {
 }
 
 .product-block .caption {
-  background: #fff;
+  /* background: #fff; */
 }
 
 .product-block .caption .meta {
