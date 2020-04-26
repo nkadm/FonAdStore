@@ -991,7 +991,7 @@ h2.none {
 .mini-cart-control .minicart-items {
   display: block;
   text-align: left;
-  width: 69px;
+  /* width: 40px; */
   float: left;
   height: inherit;
   line-height: 40px;
@@ -1007,6 +1007,69 @@ h2.none {
 .mini-cart-control .minicart-items a em {
   font-style: normal;
 }
+
+/* my account section */
+.myaccount{
+  display: block;
+  float: right;
+  position: relative;
+  margin-right: 5px;
+}
+
+.myaccount-control{
+  width: 110px;
+  height: 40px;
+  display: block;
+  background: url("../images/icons/home4/stock.svg") no-repeat;
+}
+
+.myaccount:hover .myaccount-control .myaccount-icon {
+  background: url("../images/icons/home4/myaccount_hover.svg") no-repeat;
+  background-position: center right;
+}
+
+.myaccount:hover .myaccount-control .myaccount-label a {
+  color: #2d2e82;
+}
+
+.myaccount-control .myaccount-icon {
+  font-size: 0;
+  width: 39px;
+  background: url("../images/icons/home4/myaccount.svg") no-repeat;
+  background-position: center right;
+  display: block;
+  float: left;
+  height: 38px;
+  -webkit-transition: background 0.3s ease;
+  transition: background 0.3s ease;
+  -moz-transition: background 0.3s ease;
+  -ms-transition: background 0.3s ease;
+  -o-transition: background 0.3s ease;
+  -webkit-backface-visibility: hidden;
+  backface-visibility: hidden;
+}
+
+.myaccount-control .myaccount-label {
+  display: block;
+  text-align: left;
+  width: 69px;
+  float: left;
+  height: inherit;
+  line-height: 40px;
+  /* padding-left: 5px; */
+}
+
+.myaccount-control .myaccount-label a {
+  color: #212121;
+  font: 400 12px/14px "Montserrat";
+  text-transform: uppercase;
+}
+
+.header-v4 .myaccount-control {
+  background: url("../images/icons/home4/stock.svg") no-repeat;
+  background-position: center center;
+}
+/* End of My account */
 
 .header-v2 .mini-cart-control {
   background: url("../images/icons/home2/stock.svg") no-repeat;
